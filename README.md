@@ -9,7 +9,9 @@ I design workflows that make client requests traceable, financial figures unders
 
 This repository presents my work with **Microsoft Excel, Google Sheets, Microsoft Word and Python**, with document archiving through **Cloudflare R2 and a private cPanel archive**.
 
-Open the published portfolio from this repository's **About → Website** link. The website explains each project, my contribution and the operational impact.
+[View my portfolio](https://joshking1.github.io/josephat-wahome-portfolio/) · [LinkedIn](https://www.linkedin.com/in/josephat-wahome-9a0a39155/) · [GitHub repository](https://github.com/joshking1/josephat-wahome-portfolio)
+
+The website explains each project, my contribution and the operational impact.
 
 ## Operating scale
 
